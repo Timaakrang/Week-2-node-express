@@ -1,0 +1,17 @@
+{
+  "name": "betechifed-wk2",
+  "version": "1.0.0",
+  "description": "Week 2 Express API assignment",
+  "license": "ISC",
+  "author": "Timaro Akrang",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+  "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.7",
+    "express": "^5.3.0"
+  }
+}
